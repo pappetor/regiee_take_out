@@ -20,6 +20,7 @@ class Solution {
         System.out.println(3);
         System.out.println("hot-fix");
         System.out.println("hhh");
+        System.out.println("push test");
     }
 
 
