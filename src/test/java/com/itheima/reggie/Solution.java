@@ -21,6 +21,9 @@ class Solution {
         System.out.println("心之刚");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("hhh");
+        System.out.println("push test");
+        System.out.println("pull代码");
     }
 
 
